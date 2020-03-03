@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Using_WebView_BlogBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">잼코딩 블로그북</string>
+    <string name="nav_header_subtitle">실적으로 증명하는 1등 코딩학원 잼코딩</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">블로그 홈</string>
+    <string name="menu_news">소식</string>
+    <string name="menu_daily">일상</string>
+    <string name="menu_information">컴퓨터 지식</string>
+</resources>
